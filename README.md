@@ -17,3 +17,14 @@ From the statistical analysis, three key differences in weather in June and Dece
 
 
 ## Summary 
+
+In summary, based on the descriptive statistics of both June and December, Oahu has temperature conditions that would support investing in the Surf n Shake. The weather for both months have a mean and median (50%) in the 70s which is nice for both surfing and ice cream.
+
+However, before investing I would look at the precipation statistics for both June and December.
+
+![](Images/JunePrcpStats.png) ![](Images/DecPrcpStats.png)
+
+
+As you can see the precipitation statistics for the months of June and December are low so Surf N Shake would not be rained out. Surf N Shake looks like a great investment!
+
+
