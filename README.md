@@ -6,6 +6,8 @@ To open the surfboard and icecream shop "Surf n Shake" in Oahu, Hawaii, our stak
 
 ## Results 
 
+![](/Images/JuneTempStatistics) ![](/Images/DecTempStatistics)
+
 From the statistical analysis, three key differences in weather in June and December emerge:
 
 - The average temperature in June is 74.9 degrees. This is only a difference of ~3.9 degrees compared to December. 
