@@ -6,7 +6,7 @@ To open the surfboard and icecream shop "Surf n Shake" in Oahu, Hawaii, our stak
 
 ## Results 
 
-![](Images/JuneTempStatistics) ![](Images/DecTempStatistics)
+![](Images/JuneTempStatistics.png) ![](Images/DecTempStatistics.png)
 
 From the statistical analysis, three key differences in weather in June and December emerge:
 
